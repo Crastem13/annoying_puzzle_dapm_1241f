@@ -16,4 +16,4 @@ Steps to win:
 6. The last trick is that after reaching 13 by using the "Play" button nothing will happen. The player can win only if he reaches the score of 13 using the "Start" button. (Ex: The player is at 12 he is pressing 1 time Play the score will go to 13 but he/she must press again Play (Score 14) and than Start (Score 13 => Win).
 7. The game has lose conditions aswell => if the player reacheas the score 30 or -51 the buttons dissappear and he must press the back button to restart the level.
 
-The game is childly but it was fun to make and we hope you will enjoy it.
+The game is childish but it was fun to make and we hope you will enjoy it.
