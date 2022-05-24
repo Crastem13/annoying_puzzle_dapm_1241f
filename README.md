@@ -5,7 +5,7 @@ The application is fairly simple, it has only buttons and TextViews which we are
 
 The application has only 3 Layouts, but it can always be improved.
 
-We used Java for this app, it containts just variables and if statements and that's it, hope you like it.
+We used Java for this app, it contains just variables and if statements and that's it, hope you like it.
 
 Steps to win:
 1. First Layout has a hardcoded login in which the username and password are "admin" and "admin". It makes reference to the old days when most of the people used admin as password or username
